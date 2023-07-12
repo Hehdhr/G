@@ -11,5 +11,4 @@ def search_users():
             print(f"اليوزر {username} غير متاح.")
         else:
             print(f"اليوزر {username} متاح.")
-
-search_users() 
+        
